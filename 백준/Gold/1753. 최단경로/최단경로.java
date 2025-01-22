@@ -59,7 +59,6 @@ public class Main {
         }
     }
 
-
     static class Edge implements Comparable<Edge> {
         int node;
         int cost;
